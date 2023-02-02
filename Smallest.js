@@ -12,5 +12,5 @@ function maxInArray(numbers) {
     return Smallest;
 }
 const height = [167, 190, 120, 165, 137,500,54];
-const tallest = maxInArray(height);
-console.log(tallest);
+const smallest = maxInArray(height);
+console.log(smallest);
